@@ -1,38 +1,34 @@
 # Contributing to Annir
 
-Thank you for your interest in contributing to the Annir project! We appreciate your help in improving the project and growing our community.
+Thank you for considering contributing to the Annir project! We appreciate your help and feedback.
 
-## How to Contribute
+## Reporting Bugs
+If you find any bugs, please report them by opening an issue in the repository. Make sure to include the following information:
+- Steps to reproduce the bug
+- Expected behavior
+- Actual behavior
+- Screenshots or logs, if applicable
 
-1. **Fork the Repository**: Start by forking the repository to your GitHub account.
+## Suggesting Enhancements
+We welcome suggestions to improve the project. If you have an idea, you can open an issue to discuss it before implementing.
 
-2. **Create a Branch**: Create a new branch for your contribution. For example:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
+## Submitting Pull Requests
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes.
+4. Push your branch to your forked repository.
+5. Open a pull request and describe your changes.
 
-3. **Make Changes**: Make your desired changes to the project. Ensure that your code follows our coding standards and is well-documented.
+## Code Style
+Please follow the project's coding conventions when making changes. Consistency is key to keeping the codebase maintainable.
 
-4. **Test Your Changes**: Run the tests to make sure everything works as expected.
-
-5. **Commit Your Changes**: Commit your changes with a descriptive message. Example:
-   ```bash
-   git commit -m "Add a new feature"
-   ```
-
-6. **Push to Your Branch**: Push your changes back to your fork:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-7. **Open a Pull Request**: Navigate to the original repository and create a pull request. Describe your changes and why they are needed.
+## Development Setup
+To set up the development environment, follow these steps:
+1. Clone the repository.
+2. Install dependencies by running the required commands (e.g., `npm install`, `pip install -r requirements.txt`, etc.).
+3. Run the application to ensure everything is working.
 
 ## Code of Conduct
+We are committed to providing a friendly, safe, and welcoming environment for all contributors. Please read and uphold the [Code of Conduct](link to your Code of Conduct) while participating in this project. 
 
-Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) when participating in this project. Maintain a respectful and constructive atmosphere.
-
-## Questions or Feedback?
-
-Feel free to reach out if you have any questions or feedback. We're happy to help!
-
-Happy contributing!
+We look forward to your contributions!
